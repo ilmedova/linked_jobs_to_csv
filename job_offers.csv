@@ -1,0 +1,1184 @@
+job_title,company_name,company_location,job_types,job_desc
+PHP Programmer,Apollo Interactive,"El Segundo, CA",[],"About the job
+Apollo Interactive is seeking a team-oriented, PHP Programmer to join our Los Angeles (El Segundo) office. This is a full-time position. Salary will be in line with candidate’s experience, however please provide requirements in your cover letter. Likely candidates will have 2-4 years experience in similar position using PHP/MySQL. You will be part of an established team that is responsible for the development of new Web sites from inception to completion and for performing updates to existing Web sites. Ideal candidates have excellent code/commenting, are able to manage multiple projects, have good communication skills, and a solid understanding of the Web site development process.
+
+Responsibilities:
+Develop and maintain server-side logic using PHP and MySQL.
+Design and implement database schemas, queries, and optimizations.
+Integrate user-facing elements developed by front-end developers with server-side logic.
+Implement security and data protection measures.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Stay up-to-date with emerging technologies and industry best practices.
+
+Qualifications:
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience).
+Proven experience as PHP Programmer(Backend) or similar role.
+Experience with web server technologies such as Apache or Nginx.
+Knowledge of front-end technologies such as HTML, CSS, and JavaScript is a plus.
+Familiarity with version control systems (e.g., Git).
+Excellent problem-solving and communication skills.
+Ability to work effectively both independently and as part of a team.
+
+Benefits:
+Annual salary and performance review
+Medical, dental and vision coverage
+401(K)
+Dynamic work environment
+
+Please be aware that this is a full-time position and potential candidates should reside in the Los Angeles area.
+Only resumes with a cover letter stating your interest and salary requirements will be considered.
+"
+Senior BMC Firmware Engineer,Protingent,"Austin, TX","['$55/hr - $61/hr', 'On-site', 'Contract']","About the job
+Job Description
+
+Position Title: Senior BMC Firmware Engineer
+
+Position Description: Protingent Staffing has an exciting contract opportunity for Senior BMC Firmware Engineer with our client located in Austin, TX.
+
+Job Description: The position entails firmware development in conjunction with coordination with architects, BIOS developers, vendors, and quality assurance teams to develop robust, innovative OpenBMC firmware releases for customer reference boards. Responsibilities include BMC firmware development in an OpenBMC environment, upstreaming work to the OpenBMC community and troubleshooting existing designs.
+
+A successful candidate will employ solid software methodologies, manageability design expertise, debug capabilities, and strong process practices to ensure on-schedule, defect-free firmware deliveries with focus on continuous feature and code improvement.
+
+Must Have:
+
+ BSEE, BSCS, or BSCE degree or higher
+ 5+ years or more of firmware development
+ 3 years or more of manageability firmware experience
+ Candidates should enjoy working in a dynamic team environment
+ Previous BMC Firmware development experience mandatory (Dell iDRAC, Dell CMC, HP iLo, etc)
+ Highly Proficient in developing User Interface based on Java Scripts, Network socket concepts
+ Experience with Open Source Baseboard Management Controller (BMC) Software Stack (OpenBMC)
+ Programming experience (JavaScript, Shell Scripting, Python, C, C++)
+ Knowledge of low-level protocols including I2c, I3c, JTAG, SPI, eSPI, UART, PCIe expected
+ Proficient with Source version control systems like Git, Review tools like Gerrit
+ Working knowledge of Linux Kernel programming and Linux driver development experience (JTAG, I2C, SPI)
+ Hands on experience working with Reference Boards.
+ Experience with Linux gcc build and debug tools.
+ Strong debug methodology and skills mandatory
+ Experience in server manageability architecture mandatory
+ Intimate knowledge of software development process methodology expected
+ Knowledge of industry standard initiatives such as Redfish, PLDM, MCTP desirable and manageability protocols such as IPMI expected.
+
+
+Nice To Have:
+
+ Experience in x86 architecture
+ Understanding of Security concepts - Root of Trust, verified boot, measured boot
+ Experience in Arm architecture
+ Experience reading and understanding digital schematics
+ Strong analytical skills and debug methodology expected.
+
+
+Job Details:
+
+ Contract: 12 months
+ Pay Rate: $55 - $61 / hr
+ Location: Austin, TX (Onsite).
+
+
+Benefits Package: Protingent offers competitive salaries, insurance plan options (HDHP plan or POS plan), education/certification reimbursement, pre-tax commuter benefits, Paid Time Off (PTO), and an administered 401k plan.
+
+About Protingent: Protingent is a niche provider of top Engineering and IT talent to Software, Electronics, Medical Device, Telecom, and Aerospace companies nationwide. Protingent exists to make a positive impact and contribution to the lives of others as well as our community by providing relevant, rewarding, and exciting work opportunities for our candidates.
+"
+Infrastructure Engineer,Mainz Brady Group,"Anacortes, WA","['Hybrid', 'Full-time']","About the job
+Lead Engineer for GitHub Administration
+
+About The Role
+
+We are looking for a highly skilled software engineer to serve as the Lead GitHub Enterprise Administrator.
+
+Qualifications
+
+ Bachelor’s degree in Computer Science, Information Technology, or a related
+
+
+field, or equivalent work experience.
+
+ 5+ years of professional experience as a computer software programmer, system
+
+
+administrator, DevOps engineer, or infrastructure engineer.
+
+ 2+ years of professional experience as a lead or senior member of a software
+
+
+team.
+"
+Senior Frontend Development Software Engineer,Ford Motor Company,"Dearborn, MI","['Hybrid', 'Full-time']","About the job
+Job Description
+
+We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world -- together. At Ford, we’re all a part of something bigger than ourselves. Are you ready to change the way the world moves?
+
+We are seeking a talented Front End Development Engineer to play a key role in developing a comprehensive Enterprise Design System that includes a UI component library utilizing Angular, Material, and NGZorro, as well as data visualization templates for Dash, React, and Qlik Sense enterprise products.
+
+The primary focus of this role will be to create a user-friendly marketplace for all UI components, allowing users to easily browse and select the components they require. The successful candidate will be responsible for providing code snippets, detailed instructions, and other necessary resources to facilitate seamless integration.
+
+Responsibilities
+
+What you'll do...
+
+In addition to front-end development, this individual will be expected to contribute to the design process, gather requirements, and introduce innovative solutions to enhance the overall user experience.
+
+Attend GDIA Design System Team meetings
+
+Technical support to our internal customers, providing tips/solutions
+
+Develop coded components and templates within GitHub
+
+Manage GitHub structure and documentation
+
+Innovate as the team navigates new technologies that demands GDIA styling
+
+Qualifications
+
+You'll have...
+
+Bachelor’s Degree in Computer Science, or related field, or a combination of education and equivalent experience
+
+5+ years of full stack software engineering experience (web applications, microservices architecture, REST/GraphQL, etc.)
+
+2+ years of experience and proficiency with modern web development languages and frameworks, such as:
+
+Modern HTML and CSS (SASS, SCSS, etc.)
+
+Typescript/JavaScript
+
+Development framework (Angular, React based frameworks, etc.)
+
+2+ years of experience with frontend tooling such as Node/npm, yarn or equivalent
+
+2+ years of experience with test driven development (TDD) using frontend testing frameworks such as Playwright, Puppeteer, Cypress or equivalent.
+
+2+ years working with cloud technologies (Azure, PCF, AWS, GCP)
+
+5+ years of experience and proficiency with git and GitHub (or related such as GitLab or BitBucket)
+
+Experience and proficiency with semantic coding and Web Content Accessibility Guidelines (WCAG 2.0 AA).
+
+2+ years of experience with Automated Testing, Continuous Integration, Continuous Deployment (CI/CD)
+
+2+ years of experience in Agile practices (SAFE, Scrum, Kanban, etc.)
+
+Ability to self-guide and problem-solving skills
+
+Even better, you may have...
+
+Exposure to GCP, GitHub Copilot, Visual Studio
+
+Recent Angular development experience
+
+Paired programming
+
+Outstanding software engineering and design knowledge
+
+Demonstrated ability to learn and become productive in new technologies quickly
+
+Experience troubleshooting application and performance issues
+
+Agile mindset
+
+You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!
+
+As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a changemaker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:
+
+ Immediate medical, dental, vision and prescription drug coverage
+ Flexible family care days, paid parental leave, new parent ramp-up programs, subsidized back-up child care and more
+ Family building benefits including adoption and surrogacy expense reimbursement, fertility treatments, and more
+ Vehicle discount program for employees and family members and management leases
+ Tuition assistance
+ Established and active employee resource groups
+ Paid time off for individual and team community service
+ A generous schedule of paid holidays, including the week between Christmas and New Year’s Day
+ Paid time off and the option to purchase additional vacation time.
+
+
+For a detailed look at our benefits, click here:
+
+https://fordcareers.co/GSR-HTHD
+
+This position is a salary grade 8.
+
+Visa sponsorship is available for this position.
+
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.
+
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.
+"
+ADAS Embedded Software Performance Engineer,Ford Motor Company,"Dearborn, MI","['Hybrid', 'Full-time']","About the job
+Responsibilities
+
+We are the movers of the world and the makers of the future. We get up every day, roll up our sleeves and build a better world -- together. At Ford, we’re all a part of something bigger than ourselves. Are you ready to change the way the world moves?
+
+In the Ford Advanced Driver-Assistance Systems (ADAS) program, Ford’s team designs and develops functional models and hardware that provide best-in-class performance for features like adaptive cruise control, automatic emergency braking, cross traffic alert, active park assist and 360 camera systems. The ADAS team develops and delivers software for advanced features that make use of machine learning and artificial intelligence in support of features such as Blue Cruise, Pro Trailer Backup Assist, and Pro Trailer Hitch Assist.
+
+In this position… 
+
+As an ADAS Embedded Software Performance Engineer, you will Lead the performance measurement, analysis, reporting, and optimization of the interactions between software and hardware resources on embedded ECU’s.
+
+What You'll Do...
+
+ Coach documenting and implementing optimal use of system hardware resources – CPU, (shared) RAM, storage, I/O pipelines, accelerators 
+ Coach documenting and implementing for optimal software designs in Linux/QNX embedded systems 
+ Create performance measurements dashboards containing timing information, resource consumption information, and trends 
+ Define performance measurement profiles based on the hardware and software architecture, creating use cases considerate of features and functions under various stress conditions 
+ Evaluate embedded software implementations and provide recommendations such as library type usage, stack vs heap tradeoffs, dynamic vs static memory allocation 
+Develop embedded and external user tools to aid in the collection, analysis, and reporting of system performance
+
+
+You'll have…
+
+Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or related field or a combination of education and equivalent experience. 
+5+ years of experience in software development in C or C++ 
+5+ years of experience designing and implementing embedded systems for high performance, high reliability real-time embedded computing platforms 
+
+
+Ideally You'll have…
+
+Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field 
+Demonstrated background in solving complex performance issues within the real-time embedded Linux/QNX domain 
+Deep knowledge of lower levels of the software stack, operating systems, software/hardware interactions, usage of system calls, threads, processes 
+Deep understanding of how design decisions made in the upper levels of the software stack affect lower levels and hardware/software resource usage
+Ability to define performance activity frameworks/architectures 
+Ability to create processes and implementations based on industry practices and the unique needs of the embedded system
+ Experience with software in the ADAS domain, machine learning, sensors, ISP and vision pipelines
+Automotive experience (MISRA, FuSa etc.) as it applies to performance analysis and improvement
+
+
+You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply!
+
+As an established global company, we offer the benefit of choice. You can choose what your Ford future will look like: will your story span the globe, or keep you close to home? Will your career be a deep dive into what you love, or a series of new teams and new skills? Will you be a leader, a change maker, a technical expert, a culture builder…or all of the above? No matter what you choose, we offer a work life that works for you, including:
+
+ Immediate medical, dental, and prescription drug coverage
+ Flexible family care, parental leave, new parent ramp-up programs, subsidized back-up child care and more
+ Vehicle discount program for employees and family members, and management leases
+ Tuition assistance
+ Established and active employee resource groups
+ Paid time off for individual and team community service
+ A generous schedule of paid holidays, including the week between Christmas and New Year’s Day
+ Paid time off and the option to purchase additional vacation time.
+
+
+For a detailed look at our benefits, click here:
+
+https://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2024-benefits-and-comp-GSR-sal-plan-2.pdf
+
+Visa sponsorship is available for this position.
+
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire.
+
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status. In the United States, if you need a reasonable accommodation for the online application process due to a disability, please call 1-888-336-0660.
+"
+Embedded Software Engineer,Ford Motor Company,"Santa Fe Springs, CA","['Hybrid', 'Full-time']","About the job
+Job Description
+
+Ford EV D&D is responsible for developing the key technologies and capabilities – such as EV platforms, batteries, e-motors, inverters, charging and recycling – to create ground-up breakthrough electric vehicles. Join a team of knowledgeable and passionate engineers striving to build robust and safety-rated embedded systems to solve the most relevant problems in vehicle electrification. Being on the Ford EV D&D team means building the future as Ford’s center of innovation and growth through electric and connected vehicles and services.
+
+Our team develops firmware and controls for a diverse array from battery management systems to motor control systems. As part of the embedded software team, you will be responsible for the user-facing critical features like power management of the ECU and ensure that the low-level actuators are controlled adequately to meet vehicle attributes and performance targets. In this role, you will be collaborating with many cross-functional teams from electrical architecture, system integration, and other platform software engineers for firmware development through all stages of the program development.
+
+Responsibilities
+
+What You'll do
+
+Lead the design and implementation of the firmware running on a distributed embedded system with multiple microcontrollers with a focus on optimizing power/energy consumption and safety. 
+Specification, design, implementation, and testing of both bare metal and RTOS low-level software for energy management and powertrain controls applications. 
+Develop embedded software from low-level base software to application modules. 
+Design and specify interfaces between application software and firmware. 
+Develop multicore, timing-critical software architectures.
+Work with/resolve ambiguity in requirements/specifications/designs. 
+Create elegant, efficient real-time software components and interfaces. 
+Develop software component testing methodologies and implementations to ensure maturity/stability/release readiness. 
+Work with hardware and debuggers at a bench and HIL level to verify software operation. 
+Design ISO26262-compliant software. 
+Define system-level power requirements and implement low-power modes of operation for each of the microcontrollers. 
+Instrument and profile software to identify opportunities for optimization on the submodule and system level. 
+Early phases of firmware development will focus on hardware validation, labcar testing, and setting up the automation framework for a unit. SIL and HIL testing. 
+Develop comprehensive test plans and perform thorough testing to validate firmware functionality, stability, and performance under various conditions, including low power modes. 
+
+
+What you will bring:
+
+Hands-on hardware bring-up, system debugging, and code optimization. 
+Ability to collaborate and communicate complex technical concepts. 
+Ability to deliver high-quality C code in a real-time embedded environment. 
+Proficiency in a variety of embedded architectures, from bare metal to RTOS implementations, as well as a deep understanding of modern multi-core 32-bit embedded controller peripherals and architecture. 
+Understanding of CI/CD pipeline and software build infrastructure. 
+Strong Python coding skills to support test automation.
+
+
+Qualifications
+
+Bachelor’s degree in electrical engineering, Computer Science, Computer Engineering, experience with evidence of exceptional ability, or equivalent. 
+3+ years of relevant experience in embedded design
+ High proficiency in programming experience using Python or Embedded C/C++ 
+Highly collaborative mindset and strong communication skills 
+Experience with JIRA/Confluence or a similar system for tracking inputs/results. 
+Knowledge of electrical engineering fundamentals including circuit analysis and design 
+
+
+Preferred Requirements:
+
+Experience in low-level driver development and RTOS integration. 
+Experience with software build tools like Bazel, Scons, Cmake etc. 
+Experience with fundamental hardware components on PCB and their analysis tools. 
+Ability to write testing scripts for using scripting languages (Python) 
+Fluent in software fundamentals including software design and maintainability. 
+Hands-on experience in hardware bring-up, system debugging, and code optimization.
+
+
+What you’ll receive in return:
+
+As part of the Ford family, you’ll enjoy excellent compensation and a comprehensive benefits package that includes generous PTO, retirement, savings and stock investment plans, incentive compensation and much more. You’ll also experience exciting opportunities for professional and personal growth and recognition.
+
+https://corporate.ford.com/content/dam/corporate/us/en-us/documents/careers/2024-benefits-and-comp-GSR-sal-plan-2.pdf
+
+If you have what it takes to help us redefine the future of mobility, we’d love to have you join us.
+
+Candidates for positions with Ford Motor Company must be legally authorized to work in the United States. Verification of employment eligibility will be required at the time of hire. Visa sponsorship is available for this position.
+
+We are an Equal Opportunity Employer committed to a culturally diverse workforce. All qualified applicants will receive consideration for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, disability status or protected veteran status.
+"
+"Senior Engineer, IT Services Engineering (Atlassian) Hybrid in San Francisco, CA",iTalent Digital,San Francisco Bay Area,"['Hybrid', 'Full-time']","About the job
+Job description
+
+iTalent digital is seeking a Senior Engineer, IT Services Engineering
+to join our dynamic team of technology consultants.
+
+Prefer local to San Francisco, CA- to work a hybrid model. Open to remote for the right candidate. 
+Salary: 150,000 /yr
+
+Required qualifications and skills
+Design, build, implement and support new features and enhance existing ones
+Daily administration of users including onboarding, offboarding, licensing and access
+Troubleshooting and resolve issues related to all IT Services tools/platforms, configuration, and apps
+Partner with Business Analyst, Business & Technical Stakeholders, Architect, and / or fellow engineers to determine the best way to meet business requirements
+Review Code for others on the teams and provide thoughtful feedback
+Proactively monitor and improve functionalities & capabilities, technical performance, supportability, security, and stability of all IT Services owed platforms
+Participate in technical discussions with fellow engineers
+Participate in production support and monthly code deployment activities
+
+Preferred qualifications and skills
+5+ years’ Software Developer experience
+Senior level understanding and hands-on experience with:
+ Installation, configuration, development, and administration in Atlassian Data Center products, specifically JIRA and Confluence
+Experience hosting, scaling, and managing Atlassian products in Azure Cloud.
+Integrating Atlassian products with other systems using APIs.
+Experience with Atlassian Query Language (JQL) for complex search and reporting.
+Understanding of user management, permissions, and security in Atlassian products.
+Evaluating, deploying, and maintaining Atlassian Marketplace apps and plugins.
+Scripting languages such as Python, Bash, or PowerShell for automation tasks
+Mid-level understanding and experience with:
+Performance tuning and scaling of Atlassian products in a large enterprise environment.
+Familiarity with database technologies, specifically those compatible with Atlassian products like PostgreSQL, MySQL, Oracle, etc.
+Knowledge of backup and disaster recovery planning for Atlassian products in Azure Cloud.
+Experience with version control systems like Git.
+Proficiency in Scrum/Agile practices such as sprint planning, daily stand-ups, sprint reviews, story grooming and retrospectives.
+Quality & Testing: Writing production-ready code, understanding the testing pyramid, debugging, observability.
+Software Design & Architecture: Understanding team's domain, aligned code design, utilizing abstractions, and code isolation effectively.
+Security: Approaching all engineering work with a security lens, actively looking for vulnerabilities.
+Delivery & Self-Organization: Incremental value delivery, work breakdown, prioritization, dealing with ambiguity, reliability, economic thinking.
+Feedback, Communication, Collaboration: Delivering and receiving feedback, effective communication, knowledge sharing, teamwork, relationship building, handling disagreement.
+Strategic Impact: Understanding of business acumen, strategy, product thinking.
+
+Education
+Bachelor’s or equivalent experience in Computer Science, Engineering, or Information Technology
+
+Company description
+About iTalent Digital: 
+ We are part of a new generation of consulting and software development company that blends diversity, innovation, and integrity with real business results. Our structure rejects any strong hierarchy, empowering us to deliver excellent results. We are a woman- and minority-led firm. Every day, we challenge ourselves to be considerate, fair and to re-think what great outcomes mean for our customers. This permeates down to how we approach every interaction, on every project, for every client. You’ll thrive here if you are a dynamic self-starter, a difference-maker or someone who wants to deliver great results, without constraints. 
+ The iTalent Digital Experience: 
+ Joining us means you’ll be part of our global community, you have a say about your own career journey, and you’ll get a chance to give back to causes that matter. You will experience working with Fortune 500 companies and high-performance teams across numerous industries. 
+ iTalent Digital offers our employees excellent benefits such as medical, dental, vision, life insurance, paid holidays, PTO, 401K + matching, networking & career learning and development programs. We are growing and we want to see you grow! 
+ Visit https://www.italentdigital.com/careers to learn more about what working at iTalent can mean for you. 
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or protected veteran status, or any other legally protected basis, in accordance with applicable law. 
+ iTalent is committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or to perform the essential functions of a position, please contact us at recruiting@italentdigital.com and let us know the nature of your request and your contact information.
+"
+FAST Labs Sr. Principal II Software Engineer (On-Site),"BAE Systems, Inc.","Merrimack, NH","['On-site', 'Full-time']","About the job
+
+Job Description Because this role involves classified work in a closed area all work will need to be performed 
+
+full-time on site
+.
+
+Through research programs funded by science and technology R&D organizations within the U.S. Department of Defense, the research and development team in FAST Labs™ collaborate across the enterprise. On this team, you’ll have the opportunity to create and develop advanced technology capabilities in the areas of advanced electronics, autonomy, cyber, electronic warfare, and sensors and processing.
+
+If you are a technologist who loves to design, write, integrate, and test cutting edge software based around challenging algorithms, this is the career opportunity for you. The FAST Labs business area is the innovative research and development engine within the Electronic Systems Sector of BAE.
+
+As a Senior Principal II Software Engineer in FAST Labs Engineering you might:
+
+Lead the evaluation and design of highly complex and innovative software architectures.
+Be the technical leader of a 5 to 10 person team.
+Serve as a scrum master.
+Mentor and train junior staff in software engineering industry best practices and process.
+Lead external project interactions with customers to understand their requirements and guide development efforts to meet their needs.
+Design, write, test, integrate, and debug software on assigned programs.
+
+Qualified candidates will also possess knowledge of software architectures, software industry best practices, and emerging software technologies. As a member of the Software Engineering Directorate, you will have opportunities to continue developing strong and increasingly complex software skills and stay current in the software discipline.
+
+The organization focuses on career development of our software engineers and advancement of the craft of software engineering. You will be working alongside other highly motivated engineers passionate about software and protecting our military service personnel. This position may require occasional U.S. domestic travel to support integration and test events.
+
+We put our customers first – exemplified by our missions: “We Protect Those Who Protect Us®” and “We Innovate For Those Who Move The World™.” Sound like a team you want to be a part of? Come build your career with BAE Systems.
+
+Please note that pursuant to a government contract, this specific position requires US citizenship status.
+Required Education, Experience, & Skills 
+
+Bachelor's Degree in a technical area with 10+ years professional SW development experience, or
+Master's Degree in a technical area with 8+ years professional SW development experience.
+Strong experience with object-oriented C++ (11 or later)
+Strong experience developing for and operating in the Linux Environment
+Experience with containerization (e.g. Docker) and developing software in containerized environments.
+Experience developing applications that cover several of: distributed, multi-threaded, real time, embedded, low latency, DSP, device control, or military systems.
+
+
+Preferred Education, Experience, & Skills 
+
+Software architecture experience.
+Experience developing algorithms in MATLAB
+General Purpose Graphical Processing Unit (GPU) OPENCL or CUDA development.
+Cloud Native Technologies experience (e.g. Kubernetes, Harbor, Helm, etc.)
+RF, Radar, EO/IR, Electronic Warfare or Software Defined Radio experience.
+
+
+Pay Information
+
+Full-Time Salary Range: $140690 - $239140
+
+Please note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.
+
+Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.
+
+
+About BAE Systems Electronic Systems BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference. Electronic Systems (ES) is the global innovator behind BAE Systems’ game-changing defense and commercial electronics. Exploiting every electron, we push the limits of what is possible, giving our customers the edge and our employees opportunities to change the world. Our products and capabilities can be found everywhere – from the depths of the ocean to the far reaches of space. At our core are more than 14,000 highly talented Electronic Systems employees with the brightest minds in the industry, we make an impact – for our customers and the communities we serve. At BAE Systems, we celebrate the array of skills, experiences, and perspectives our employees bring to the table. For us, differences are a source of strength. We’re laser-focused on high performance, and we work hard every day to nurture an inclusive culture where all employees can innovate and thrive. Here, you will not only build your career, but you will also enjoy work-life balance, uncover new experiences, and collaborate with passionate colleagues.
+"
+Principal Embedded Software Engineer,"BAE Systems, Inc.","Sterling Heights, MI","['Hybrid', 'Full-time']","About the job
+
+Job Description What’s it like realizing your potential at an innovative company that takes on some of the world’s most important challenges? Rewarding. BAE Systems' reputation is built on delivering quality products that meet our customer's standards and help protect our U.S. service members. We rely on our team of engineers to make this possible, and we are now hiring several Software Engineers to join our team.
+
+We have openings for up to 4 individuals with experience and a passion for real-time, embedded software development. The Principal Software Engineer plans, leads, and performs a variety of tasks across the areas of software requirements analysis, software architecture and design, implementation (code and unit test), documentation, hardware-software integration, troubleshooting, problem solving, and software verification testing.
+
+At BAE Systems, we value our workforce. We offer competitive salary and benefit packages, and we work a 9/80 schedule with every other Friday off. We also offer a hybrid option to work remotely up to 50%, which helps our employees achieve a balanced life. With at least 50% of engineering work occurring on site, there is also plenty of support for new staff onboarding and project team collaboration.
+
+
+
+In Addition, The Principal Software Engineer
+
+
+Plans, leads, and executes efforts to architect, design, develop, maintain, upgrade, port, and verify/qualify embedded product software and/or product support software to enhance, implement and support project/system functionality. 
+Mentors less experienced software engineers to help develop their software development and test capabilities and troubleshooting and problem-solving skills.
+Collaborates across the other engineering disciplines such as Mechanical, Electrical, Controls, and Systems. 
+Ensures that technical approach is consistent with established engineering principles and practices. 
+Ensures that cost and schedule targets are met, product outcomes meet customer needs, and customer and company technical, system, performance, process, and quality requirements are met.
+
+
+Required Education, Experience, & Skills 
+
+Bachelor’s degree in STEM field
+Minimum of 6 years of experience including:
+Real-time embedded software development or testing
+Use of version control and issue tracking tools
+Object-oriented software architecture, software design, C++ coding, and unit testing of embedded software with knowledge of requirements-based software verification and traceability
+Preferred Education, Experience, & Skills 
+
+Experience developing and troubleshooting communications, device drivers, and IO interfaces
+Experience integrating or testing software on bare metal and with various real-time operating systems such as vxWorks and Linux/Unix derivatives
+Experience in requirements analysis, software design, implementation (code and unit test) and authoring of formal deliverable documentation
+Experience using Magic Draw, Enterprise Architect, or similar model-based engineering tool
+Experience either standing up or extending software verification environments in support of automated software verification testing
+Familiarity with weapon systems, munitions, and/or combat vehicle functionality and capability
+Experience using GitLab or other CI / CD tools
+
+
+Pay Information
+
+Full-Time Salary Range: $112420 - $191070
+
+Please note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.
+
+Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.
+
+
+About BAE Systems Platforms & Services BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference.
+
+The Platforms & Services (P&S) sector under BAE Systems, Inc does the big stuff: the armored combat vehicles, naval guns, missile launchers, and naval ship repair…just to name a few. Our employees take pride in the work they do and why they do it. They are on the front lines every day, building our products to protect the lives of those who serve. We may be biased, but we think P&S does some of the coolest work around, and we think you will too.
+
+
+
+Our Commitment To Diversity, Equity, And Inclusion
+
+
+At BAE Systems, we work hard every day to nurture an inclusive culture where employees are valued and feel like they belong. We are conscious of the need for all employees to see themselves reflected at every level of the company and know that in order to unlock the full potential of our workforce, everyone must feel confident being their best, most sincere self and be equipped to thrive. We provide impactful professional development experiences to our employees and invest in social impact partnerships to uplift communities and drive purposeful change. Here you will find significant opportunities to do meaningful work in an environment intentionally designed to be one where you will learn, grow and belong.
+"
+Test Automation Engineer,Intellectt Inc,"Grand Rapids, MI","['On-site', 'Full-time']","About the job
+Job Title: Test Automation Engineer
+Location: Grand Rapids, Michigan
+ Job Description & Skill Requirement:
+
+Build drivers for a variety of embedded system components. 
+Design and develop automated test programs hosted in NI TestStand environment, Test executives.
+Develop and improve control algorithms for high-speed feedback loops. Update and maintain existing codebase. Design and build tools to aid in deployment of large distributed systems. Create test sets for web-based UI interaction.
+Work under the guidance of the Lab Director and applicable Project Manager to design and develop electrical interfaces and software solutions to meet customer requirements. 
+Participate in or lead a multi-discipline design team, from project conception to project completion.
+Obtain specifications and details of equipment and components used in electrical systems and ensure this information is correctly depicted in the design drawings and specifications, including field collection activities to gather data and determine system requirements.
+Conduct control system programming and configuration including understanding particular configuration segments of the overall system. 
+Conduct system software programming and configuration to include operator interfaces.
+Attend review meetings and system testing events. 
+Comply with applicable standards and organizational requirements.
+Support Integration & Test activities and the resolution of anomalies during product test.
+Interaction between multiple functional disciplines in order to refine requirements needed to complete the Test software design.
+Test Set Software Development utilizing LabVIEW, FPGA module and TestStand to develop automated test solutions for avionics and space hardware that execute on Special Test Equipment (STE) designed in house.
+
+ Qualification:
+•Bachelor’s degree in Engineering from an accredited university or college
+• minimum of 5 years of experience in an engineering role - 5+ years’ experience in LabVIEW, NI TestStand / Veristand programming environment
+"
+Senior Software Development Engineer,Tideworks Technology,"Seattle, WA","['Hybrid', 'Full-time']","
+"
+Dev-Ops Engineer for Non-Volatile Validation,Micron Technology,"Longmont, CO",['Full-time'],"About the job
+Our vision is to transform how the world uses information to enrich life for all. 
+
+Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.
+
+For more than 45 years, Micron Technology, Inc. has redefined innovation with the world’s most advanced memory and semiconductor technologies. We’re an international team of visionaries and scientists, developing groundbreaking technologies that are transforming how the world uses information to enrich life.
+
+Our team vision is a continuing desire to develop your skills working in an inclusive diverse environment of multicultural Teams across worldwide geographies! Enabling the creative career path you deserve with a collaborative environment, and groundbreaking technology while rapidly growing your abilities.
+
+What’s Encouraged Daily
+
+As a Dev Ops Engineer in the Non-Volatile Engineering Group (NVE) at Micron Technology, Inc., you will be expected to create and maintain CI/CD pipelines, write, code, test, and analyze software programs and applications. This includes working closely with internal customers to research and document application requirements. You will also write and test code according to requirements, analyze and amend software errors in a timely and accurate fashion, and provide status reports where required. You should have strong Linux and scripting knowledge using Shell, python, and Groovy.
+
+You will provide solutions that create business value while at the same time minimizing negative impact through defects, downtime, or performance degradation.
+
+Perform Test Development/Analysis
+
+Work with Applications/Marketing to stay up-to-date on OEM system requirements and test software
+Develop and design test plans to evaluate drive functionality in a system environment
+Evaluate existing test plans against OEM specifications, RMAs, and Customer feedback to improve test coverage and efficiency
+Identify and/or develop test tools to enable failure analysis and improve testability
+Stay up-to-date on the latest computer systems and programs
+
+Perform Product Test and Failure Analysis
+
+Perform product testing to evaluate and support new product development and customers
+System level and drive level debugging using software programs, oscilloscopes, bus analyzers, and other diagnostic tools
+Install, modify and debug issues in a DOS, Windows, Linux, and Mac OS environment
+Drive issues to closure by interfacing/collaborating with other product development teams
+Ability to troubleshoot hardware issues PC, cabling
+
+Support Internal/External Customers
+
+Provide technical support (e.g. failure analysis, questions, etc.) to any internal or external customer as part of product development
+Provide technical knowledge and feedback to the SATA, SAS, and PCIe specifications
+Support customer and internal audits
+
+Adhere to Safety procedures
+
+Follow established policies and procedures
+Recognize and resolve safety or environmental issues, including assistance to develop appropriate procedures and documentation
+Use available resources to complete tasks in a safe and efficient manner
+
+How To Qualify
+
+Experience with Git, CI/CD, make, Jira and Linux, Jenkins
+Deep understanding of continuous integration and delivery workflow, as well as branching strategies
+Experience with Jenkins pipelines and Groovy/Shell/Python scripting
+Excellent communication and collaboration skills cross-team and projects
+Excellent problem-solving and build debugging skills, continuous improvement, and optimization ability on the delivery toolchain
+BS and 3+ years of relevant industry experience is required. A bachelor’s degree in electrical engineering or computer science and/or MSEE is preferred.
+
+What Sets You Apart
+
+Experience with Python code development, Puppet/Ansible, and Artifactory are a plus
+
+The US base salary range that Micron Technology estimates it could pay for this full-time position is:
+
+$101,000.00 - $215,000.00
+
+Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries of the position across all US locations. Within the range, individual pay is determined by work location and additional job-related factors, including knowledge, skills, experience, tenure and relevant education or training. The pay scale is subject to change depending on business needs. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Additional compensation may include benefits, discretionary bonuses and equity.
+
+As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.
+
+Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.
+
+To learn about your right to work click here.
+
+To learn more about Micron, please visit micron.com/careers
+
+US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+"
+"Data Engineer II (Python, AWS, DataBricks and SQL)",Travelers,"Hartford, CT","['Hybrid', 'Full-time']","About the job
+Who Are We?
+
+Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 160 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.
+
+Compensation Overview
+
+The annual base salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards.
+
+Salary Range
+
+$121,000.00 - $199,600.00
+
+Target Openings
+
+1
+
+What Is the Opportunity?
+
+Travelers Business Insurance (BI) Analytics & Research Data Engineering team is seeking highly motivated and skilled Data Engineer to provide the design, development, and delivery of data and analytical solutions and frameworks to support data science and analytical use cases.
+
+This role will partner with our data scientists on research projects and analytics in performing data acquisition, exploration, building data processes, pipelines in creation of modeling datasets for statistical models, machine learning, and artificial intelligence. This role will also work with our actuaries as well as IT partners in performing data analysis with data gathering, data processes. Responsibilities include hands on development, implementation, and monitoring. This role will support the creation of strategic data products in Cloud environments and exploration of new technologies and techniques. For this role, the candidate should have proficiency with SQL, skilled with Python and Cloud experience. Experience with AWS cloud platform is a plus. The candidate will have a passion for working with data and problem solving. You will leverage your ability to design, build and deploy data solutions that capture, explore, transform, and utilize data to support Artificial Intelligence, Machine Learning, and business intelligence/insights.
+
+In Business Insurance Actuarial and Analytics, we deliver tailored analytics and innovative data science solutions that influence decisions and enable superior results. We have an inclusive culture where everyone feels that they belong, can be authentic, are valued, respected, empowered and part of our success. We see strength in the uniqueness that each of us contributes to creating innovative solutions and improving business outcomes.
+
+Travelers Data Engineering team constructs pipelines that contextualize and provide easy access to data by the entire enterprise. As a Data Engineer, you will play a key role in growing and transforming our analytics landscape. In addition to your strong analytical mind, you will bring your inquisitive attitude and ability to translate stories found in data by leveraging a variety of data programming techniques. You will leverage your ability to design, build and deploy data solutions that capture, explore, transform, and utilize data to support Artificial Intelligence, Machine Learning, and business intelligence/insights
+
+What Will You Do?
+
+Build and operationalize complex data solutions, correct problems, apply transformations, and recommending data cleansing/quality solutions.
+Design complex data solutions
+Perform analysis of complex sources to determine value and use and recommend data to include in analytical processes.
+Incorporate core data management competencies including data governance, data security and data quality.
+Collaborate within and across teams to support delivery and educate end users on complex data products/analytic environment.
+Perform data and system analysis, assessment and resolution for complex defects and incidents and correct as appropriate.
+Test data movement, transformation code, and data components.
+Perform other duties as assigned. 
+
+What Will Our Ideal Candidate Have?
+
+Design, build and operationalize complex data solutions, correct problems, apply transformations, and recommending data cleansing/quality solutions.
+Perform analysis of complex sources to determine value and use and recommend data to include in analytical processes.
+Modernize legacy data processes with incorporating best practices and utilizing Cloud and Python.
+Partner with Business teams: Actuarial Product and Data Scientists on gathering requirements, design data solutions.
+Incorporate core data management competencies including data governance, data security and data quality.
+Collaborate within and across teams to support delivery and educate end users on complex data products/analytic environment.
+Perform data and system analysis, assessment and resolution for complex defects and incidents and correct as appropriate.
+Automation of data processes on cloud and on premise to ensure secure, supported, and scalable solutions.
+Test data movement, transformation code, and data components.
+Perform other duties as assigned.
+Mentor small team on data efforts and working with complex (type, quality, volume) and unfamiliar data.
+Actively seeks opportunities to expand technical knowledge and capabilities.
+Strong problem solver who ensures systems are built with longevity and creates innovate ways to resolve issues.
+Strong written and verbal communication skills with the ability to work collaborate well with team members and business partners.
+Ability to lead team members and help create a safe environment for others to learn and grow as engineers. and a proven track record of self-motivation in identifying opportunities and tracking team efforts.
+Bachelor’s Degree in STEM related field or equivalent
+2 years of experience in Cloud Platforms: AWS (Preferred), Azure, GCP
+Highly proficient use of tools, techniques, and manipulation including Cloud platforms, programming languages, and a full understanding of modern software engineering practices.
+Advanced knowledge of data tools, data processing patterns, pipelines, and techniques
+Cloud Orchestration & Automation: Jenkins Pipelines, AWS Lambda, AWS Step functions, AutoSys
+Mentor small team on data efforts and working with complex (type, quality, volume) and unfamiliar data.
+Actively seeks opportunities to expand technical knowledge and capabilities.
+Database: Teradata, Oracle, SQL Server
+Preferred Skills: DataBricks, Snowflake and AWS
+
+What is a Must Have?
+
+Eight years of related experience
+Four years of data engineering or equivalent experience.
+
+What Is in It for You?
+
+Health Insurance: Employees and their eligible family members – including spouses, domestic partners, and children – are eligible for coverage from the first day of employment.
+Retirement: Travelers matches your 401(k) contributions dollar-for-dollar up to your first 5% of eligible pay, subject to an annual maximum. If you have student loan debt, you can enroll in the Paying it Forward Savings Program. When you make a payment toward your student loan, Travelers will make an annual contribution into your 401(k) account. You are also eligible for a Pension Plan that is 100% funded by Travelers.
+Paid Time Off: Start your career at Travelers with a minimum of 20 days Paid Time Off annually, plus nine paid company Holidays.
+Wellness Program: The Travelers wellness program is comprised of tools, discounts and resources that empower you to achieve your wellness goals and caregiving needs. In addition, our mental health program provides access to free professional counseling services, health coaching and other resources to support your daily life needs.
+Volunteer Encouragement: We have a deep commitment to the communities we serve and encourage our employees to get involved. Travelers has a Matching Gift and Volunteer Rewards program that enables you to give back to the charity of your choice.
+
+Employment Practices
+
+Travelers is an equal opportunity employer. We believe that we can deliver the very best products and services when our workforce reflects the diverse customers and communities we serve. We are committed to recruiting, retaining and developing the diverse talent of all of our employees and fostering an inclusive workplace, where we celebrate differences, promote belonging, and work together to deliver extraordinary results.
+
+In accordance with local law, candidates seeking employment in Colorado are not required to disclose dates of attendance at or graduation from educational institutions.
+
+If you are a candidate and have specific questions regarding the physical requirements of this role, please send us an email so we may assist you.
+
+Travelers reserves the right to fill this position at a level above or below the level included in this posting.
+
+To learn more about our comprehensive benefit programs please visit http://careers.travelers.com/life-at-travelers/benefits/.
+"
+Senior Software Engineer,First American,"Nevada, United States",['Full-time'],"About the job
+Who We Are
+
+Join a team that puts its People First! First American's National Production Services division provides global title and escrow production support across all channels within First American Title including the Mortgage Services, Commercial, Direct, and Agency divisions. Since 1889, First American (NYSE: FAF) has held an unwavering belief in its people. They are passionate about what they do, and we are equally passionate about fostering an environment where all feel welcome, supported, and empowered to be innovative and reach their full potential. Our inclusive, people-first culture has earned our company numerous accolades, including being named to the Fortune 100 Best Companies to Work For® list for nine consecutive years. We have also earned awards as a best place to work for women, diversity and LGBTQ+ employees, and have been included on more than 50 regional best places to work lists. First American will always strive to be a great place to work, for all. For more information, please visit www.careers.firstam.com.
+
+What We Do
+
+HOW YOU’LL CONTRIBUTE
+
+Full Stack application development experience.
+Tests and delivers software on time.
+Provides maintenance of developed software including regression testing and debugging.
+Formulates and defines system scope and objectives for assigned projects.
+Performs maintenance, installations, upgrades, and other technical duties associated with the support of product applications platforms and/or product systems platforms.
+Responsible for top-tier implementation and integration with backend databases.
+Formulate and define system scope and objectives through research and fact-finding to develop or modify internal business systems.
+Required to perform duties outside of normal work hours based on business needs.
+Other duties as assigned
+
+What You’ll Bring
+
+Required Education, Experience, Certification/Licensure
+
+Bachelor's Degree or equivalent combination of education and experience
+Typically 5-7 years of directly related experience
+Experience working with distributed team is preferred
+
+KNOWLEDGE, SKILLS, AND ABILITIES (KSAs)
+
+Fluent in multiple application development languages at an expert level
+Experience with various computer platforms and application environments
+Should have prior experience in design, develop and maintaining .Net based web applications within all phases of the Software Development Life Cycle (SDLC)
+Expertise with developing multiple tiers of multi-tiered software applications
+Constantly updating personal technical and business knowledge and skills and mentoring others to increase the knowledge and skills of the team
+Strong written and verbal communication skills
+Understanding of Microservice Architecture
+An understanding of how to protect web applications and services from common security vulnerabilities.
+Source code management and DevOps practices with AWS DevOps.
+Strong knowledge of professional software engineering best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, CI/CD, and DevOps.
+Experience working with front-end technology (React).
+Strong RDBMS experience (PostgreSQL, MS SQL etc.) designing tables & writing queries.
+Must have experience in AWS services like Lambda, API Gateway, Dynamo DB, SQS, SNS.
+Experience with Terraform is good to have.
+Experience with Camunda (remote workflow engines) is good to have.
+
+Pay Range: $80,000-$123,000
+
+This hiring range is a reasonable estimate of the base pay range for this position at the time of posting. Pay is based on a number of factors which may include job-related knowledge, skills, experience, business requirements and geographic location
+
+What We Offer
+
+By choice, we don’t simply accept individuality – we embrace it, we support it, and we thrive on it! Our People First Culture celebrates diversity, equity and inclusion not simply because it’s the right thing to do, but also because it’s the key to our success. We are proud to foster an authentic and inclusive workplace For All. You are free and encouraged to bring your entire, unique self to work. First American is an equal opportunity employer in every sense of the term.
+
+Based on eligibility, First American offers a comprehensive benefits package including medical, dental, vision, 401k, PTO/paid sick leave and other great benefits like an employee stock purchase plan.
+"
+"Lead Application Development Engineer(GO Lang, ETL, Kafka), Only in W2 with Go Lang",Superbeo,United States,"['Remote', 'Contract']","About the job
+Job Description:
+ Position: Lead Application Development Engineer
+Location : Remote
+Duration: 6+Months 
+
+This is for my direct Client/Looking only for W2.
+
+As a Lead Application Development Engineer, this position is responsible for not only their own code but also the oversight responsibilities of other developer’s code as well. 
+This position will need to
+Development new and maintain existing rewards within the application.
+Participate in Code Reviews.
+Participate in all Agile Ceremonies
+Participate in future state design and technical roadmap discussions.
+
+Required Skills/Experience:
+GoLang
+ETL processing(Either Talend OR Informatica), Kafka
+MongoDB / Postgres
+
+Preferred Skills/ Experience:
+SQL Skills
+GitLab Pipelines
+Agile Knowledge
+
+
+
+Thanks,
+ Satpreet Singh
+Pacer Staffing
+Satpreet.Singh@pacerstaffing.com 
+210 960 7838
+"
+"Staff Software Engineer, Stripe Assistant",Stripe,"San Francisco, CA","['On-site', 'Full-time']","About the job
+Who we are
+
+About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+
+
+Our Applied ML team aims to reform how our users interact with Stripe. We are doing so by (a) automating the easy tasks, and (b) assisting our users in the difficult tasks. Some examples include helping our users resolve issues with Stripe faster or making it easier for our users to sign up and navigate Stripe. We are using the latest LLMs as well as fine-tuning our own models. We're an end-to-end team going from ideas to models to shipping in production. You can learn more about our team’s work from this recent talk.
+
+What you’ll do
+
+As a Staff Software Engineer, you will be responsible for leading AI/ML powered products & features that benefit our users. You will be setting the product roadmap, technical directions, and operating rhythm for the team based on business goals. You will partner teams to launch new products. You will analyze opportunities, propose ideas, use & evaluate ML systems, run experiments, and deploy everything to production. You will also be an integral part of a larger AI/ML community internally & externally.
+
+
+
+Our team operates fluidly and here are some problems you may tackle:
+
+
+
+
+Who you are
+
+You are a technical leader who is passionate about shipping zero-to-one products to users. You care about the fine details to delight customers. You hold yourself and others to a high bar when working with production systems, take pride in taking ownership and driving projects to business impact, and thrive in a collaborative environment. You are comfortable with ambiguity, love to take initiative, and have a bias towards action.
+
+
+
+
+
+
+
+
+
+
+
+Hybrid work at Stripe
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+Pay and benefits
+
+The annual US base salary range for this role is $209,800 - $314,800. For sales roles, the range provided is the role’s On Target Earnings (""OTE"") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and location. Applicants interested in this role and who are not located in the US may request the annual salary range for their location during the interview process.
+
+Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends.
+"
+"Sr Engineer, Software - ServiceNow ITOM",T-Mobile,"Frisco, TX",['Full-time'],"About the job
+Be unstoppable with us!
+
+T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!
+
+T-Mobile is looking for someone like you to join a team of highly qualified and motivated engineers to work on innovative Service Now platform development solutions to meet our growing customer needs. This role interacts with customers, drive solutions, performs feasibility analysis of requirements, products, features, and service, support Lab and Staging validation of these new services/platforms and ensures a successful rollout. May be involved in multiple projects and have responsibility for one or more of those projects.
+
+:
+
+Technical Engineering Services
+
+
+
+
+Innovation
+
+
+
+
+Technical Leadership
+
+
+
+
+Technology Strategy
+
+
+
+
+Technical Writing
+
+
+
+
+:
+
+
+
+
+:
+
+Required:
+
+
+
+
+Preferred:
+
+
+
+
+:
+
+
+
+
+Travel:
+
+
+
+
+DOT Regulated:
+
+
+
+
+At T-Mobile, our benefits exemplify the spirit of One Team, Together! A big part of how we care for one another is working to ensure our benefits evolve to meet the needs of our team members. Full and part-time employees have access to the same benefits when eligible. We cover all of the bases, offering medical, dental and vision insurance, a flexible spending account, 401(k), employee stock grants, employee stock purchase plan, paid time off and up to paid 12 holidays - which total about 4 weeks for new full-time employees and about 2.5 weeks for new part-time employees annually - paid parental and family leave, family building benefits, back-up care, enhanced family support, childcare subsidy, tuition assistance, college coaching, short and long term disability, voluntary AD&D coverage, voluntary accident coverage, voluntary life insurance, voluntary disability insurance, and voluntary long-term care insurance.
+
+We don't stop there- eligible employees can receive mobile service & home internet discounts, pet insurance, and access to commuter and transit programs! To learn about T-Mobile’s amazing benefits, check out www.t-mobilebenefits.com.
+
+Never stop growing!
+
+T-Mobile doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward.
+
+T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.
+
+Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.
+"
+Senior IT Engineer,Xcel Energy,"Amarillo, TX","['Hybrid', 'Full-time']","About the job
+Are you looking for an exciting job where you can put your skills and talents to work at a company you can feel proud to be a part of? Do you want a workplace that will challenge you and offer you opportunities to learn and grow? A position at Xcel Energy could be just what you’re looking for.
+
+Position Summary
+
+Identify customer requirements, assess impact to other data systems, consider available alternatives, compare costs and recommend solutions, collaborating with customers, Business Systems partners, outside vendors and other stakeholders. Consult with key business area customers for infrastructure support, applicable business functions and the information systems that support those functions. Provide consulting to customers for infrastructure support, applicable business functions and supporting information systems, and to ensure plan integration. Guide developers a distributed and multi-vendor setting through complex system analysis, modeling and monitoring activities to ensure that installed projects are effectively adding value to the business area. Develop information systems or infrastructure strategies and solutions using Salesforce development technologies (such as Apex, SOQL, Visual Force, Triggers, Lightning) and Salesforce products (such as Communities, Service Cloud, Marketing Cloud, Field Service Lightening). Conduct planning for the assigned business area or technical areas of expertise. Develop and leverage key relationships with I/T Operational areas and other Customer Operations teams to ensure solutions are appropriately prioritized within the overall scope of activities. Respond to organizational and regulatory initiatives and directives. Determine requirements of mission-critical systems. Identify gaps and resolves. Applying knowledge from certifications as Salesforce developer/architect, implement necessary procedures or infrastructure required to facilitate completion of operational changes in Salesforce, using Agile, Scrum, and DevOps Automation Pipeline methodologies. Lead cross-functional teams to assure solutions and meet changing business area, customer, and competitive requirements. Lead and guide team members and monitor budgets and expenditures. Lead large, complex or high priority applications and projects. Direct team members ensure appropriate prioritization of solutions, and monitor budgets and expenditures. Lead and guide developers in complex system analysis, modeling and monitoring activities. This position must comply with Xcel Energy’s Hybrid Work policy, which requires employees to work from their assigned Xcel Energy location on Tuesday, Wednesday and Thursday. Based on business needs and Company discretion, may relocate to other states in which the position’s subsidiary conducts business.
+
+Minimum Requirements
+
+ Bachelor’s (or foreign equivalent) in Management Information Systems (MIS) or Computer Science.
+ 5 years of Progressive experience as an IT engineer, Salesforce developer or related occupation in Salesforce development.
+ Must have 5 years’ experience in the following: Salesforce development technologies (Apex, SOQL, Visual Force, Triggers, Lightning); and Salesforce products (Communities, Service Cloud, Marketing Cloud, Field Service Lightening).
+ Must have two years’ experience in the following: Salesforce implementation with Agile, Scrum, and DevOps Automation Pipeline methodologies in the utility industry; and Salesforce development in a distributed and multi-vendor setting.
+
+As a leading combination electricity and natural gas energy company, Xcel Energy offers a comprehensive portfolio of energy-related products and services to 3.4 million electricity and 1.9 million natural gas customers across eight Western and Midwestern states. At Xcel Energy, we strive to be the preferred and trusted provider of the energy our customers need. If you’re ready to be a part of something big, we invite you to join our team.
+
+All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+Individuals with a disability who need an accommodation to apply please contact us at recruiting@xcelenergy.com.
+
+Non-Bargaining
+
+The anticipated starting base pay for this position is: $160,748.00 per year
+
+This position is eligible for the following benefits: Annual Incentive Program, Medical/Pharmacy Plan, Dental, Vision, Life Insurance, Dependent Care Reimbursement Account, Health Care Reimbursement Account, Health Savings Account (HSA) (if enrolled in eligible health plan), Limited-Purpose FSA (if enrolled in eligible health plan and HSA), Transportation Reimbursement Account, Short-term disability (STD), Long-term disability (LTD), Employee Assistance Program (EAP), Fitness Center Reimbursement (if enrolled in eligible health plan), Tuition reimbursement, Transit programs, Employee recognition program, Pension, 401(k) plan, Paid time off (PTO), Holidays, Volunteer Paid Time Off (VPTO), Parental Leave
+
+Benefit plans are subject to change and Xcel Energy has the right to end, suspend, or amend any of its plans, at any time, in whole or in part.
+
+Deadline to Apply: 07/15/24
+
+EEO is the Law | EEO is the Law Supplement | Pay Transparency Nondiscrimination | Equal Opportunity Policy (PDF) | Employee Rights (PDF)
+
+ACCESSIBILITY STATEMENT
+
+Xcel Energy endeavors to make https://www.xcelenergy.com/ accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Xcel Energy Talent Acquisition at recruiting@xcelenergy.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.
+"
+Oracle Database Engineer,Idaho National Laboratory,"Idaho Falls, ID",['Full-time'],"About the job
+Idaho National Laboratory is hiring a Oracle Database Engineer to work in our Information Technology department. Our team works a 9x80 schedule located out of our Idaho Falls, Idaho facility with every other Friday off. Remote or Hybrid work opportunities may be available for this position.
+
+You will report to the Application Development & Database Services Manager and use engineering techniques and processes to design, implement, program, and maintain database systems and the applications that use them. Design database schema for efficient use, access, and user understanding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our mission is to discover, demonstrate and secure innovative nuclear energy solutions, other clean energy options and critical infrastructure.
+
+
+
+Our vision is to change the world’s energy future and secure our nation’s critical infrastructure.
+
+
+
+To be eligible for employment at INL males born after December 31, 1959 must have registered with the Selective Service System (SSS). For more information see www.sss.gov.
+
+
+
+Idaho National Laboratory (INL) is an Equal Employment Opportunity (EEO) employer. It is the policy of INL to provide equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. Women and People of Color are strongly encouraged to apply.
+
+
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+
+
+When applying to positions please provide a resume and answer all questions on the following screens. Applicants, who fail to provide a resume or answer the questions, may be deemed ineligible for consideration.
+
+INL does not accept resumes from third party vendors unsolicited.
+
+
+
+US-ID-Idaho Falls
+
+
+
+Computer Information Systems
+
+
+
+Information Technology (Yxxx)
+
+
+
+Full-time
+
+
+
+Regular
+
+
+
+May 16, 2024, 3:57:29 PM
+
+
+
+May 31, 2024, 11:59:00 PM
+
+
+
+Position Relocation Eligible
+
+
+
+Virtual Worker
+
+
+
+Exempt
+"
+IHT Storage and Virtualization Engineer 4,St. Luke's Health System,"Boise, ID","['Hybrid', 'Full-time']","About the job
+St. Luke’s Health System in Boise, ID is seeking a Systems Engineer 4 to join our Virtualization and Storage team.
+With a high degree of latitude, the IHT Storage and Virtualization Engineer applies creativity along with sound engineering principles to evaluate, design, develop, implement and administer systems, applications, networks and/or associated infrastructures and specialty equipment. This general classification will be used for a wide variety of IHT Engineering specialty roles in the Health System, including Communication, Desktop, Network, Storage, Infrastructure, Test and Integration Engineers.
+What You Can Expect:
+Design, implement and maintain vmware environments hosting thousands or virtualized servers
+Design, implement and maintain complex storage and fabric solutions 
+Experience with scripting, automation and development of metric reports
+Capacity monitoring and forecasting for on-prem and cloud environments
+Vendor relationship management including solution designing, quoting and developing support models
+Experience supporting healthcare environments using Epic is a plus
+Responsibilities:
+Analyzes and defines business requirements and applies broad technical knowledge and best practices to design, develop, administer, and maintain data systems in one or more IHT Engineering specialty fields.
+Monitors and measures overall performance and scalability, performs root cause analysis and implements process improvement for storage and virtualization environments. Proactively identify potential issues and tunes appropriately.
+Applies engineering expertise to provide technology roadmaps and innovative technical solutions that align with the strategic vision of the health system.
+Assesses and optimizes the performance of new and existing systems and features.
+Leads functional groups to establish and improve processes; develops and implements policies and procedures governing specialty Engineering discipline.
+May have sole responsibility for projects and participate in disaster recovery exercises or help develop disaster recovery or business continuity plans.
+Develops, maintains and manages the documents and standards for a comprehensive library of support documentation.
+Handles the most complex issues and problems for the engineering team.
+Possesses expert knowledge of subject matter.
+Provides leadership, coaching, and/or mentoring to a subordinate group; may act as a lead or functional supervisor.
+Experience supporting healthcare environments using Epic is a plus
+ Qualifications:
+Education: Bachelors degree or experience in lieu of degree
+Experience: 6 years relevant experience in storage and virtualization
+Licenses/Certifications: None
+"
+Python Data Engineer + GCP,E-Solutions,"Austin, Texas Metropolitan Area","['On-site', 'Full-time']","About the job
+This is a Python Data Engineer role
+
+Role: Python Data Engineer + GCP
+Location: Austin TX (100% Onsite from Day 1) 
+
+
+Job Description:
+8+ Years experience with strong focus on Python coding and software development.
+Hands-on extensive experience with Python language and libraries.
+Develop programs for ETL/data processing in Python.
+Experience on GCP and GCP Dataflow.
+Good to have knowledge on AI/ML.
+Team Player. Good to work in collaboration with team members. 
+Excellent problem-solving skills and ability to think creatively to develop innovative solutions.
+Strong communication skills and ability to collaborate effectively with cross-functional teams.
+Good analytical and problem-solving skills.
+Good communication skills.
+Good in collaboration with cross-functional teams to understand requirements and develop solutions.
+"
+DevOps Engineer,FTI - Frontier Technology Inc,"Chantilly, VA","['On-site', 'Full-time']","About the job
+Overview
+
+FTI is looking for a DevOps Engineer to join our growting team. FTI provides mission-tailored, technology-enabled services and solutions that enhance the ability of the Department of Defense, Intelligence Community, and the Federal Government to make the best decisions possible in support of national interests. Furthermore, FTI supports those who safeguard our nation with advanced technology, services and expertise while building upon our values to make a positive impact on our customers, each other, and our communities. Lastly, our culture is built around our 4Cs: Core Values (Ethics, Morals, Integrity, Honesty, Sincerity), Commitment, Compassion, and Charity.
+
+Candidates must be in or willing to relocate to the DC Metro area or Chantilly, VA. There is some allowance for remote work, but there is a requirement for candiates to report on-site as needed.
+"
+DevOps Engineer,FTI - Frontier Technology Inc,"Aurora, CO","['On-site', 'Full-time']","About the job
+Overview
+
+FTI is looking for a DevOps Engineer to join our growting team. FTI provides mission-tailored, technology-enabled services and solutions that enhance the ability of the Department of Defense, Intelligence Community, and the Federal Government to make the best decisions possible in support of national interests. Furthermore, FTI supports those who safeguard our nation with advanced technology, services and expertise while building upon our values to make a positive impact on our customers, each other, and our communities. Lastly, our culture is built around our 4Cs: Core Values (Ethics, Morals, Integrity, Honesty, Sincerity), Commitment, Compassion, and Charity.
+
+Candidates must be in or willing to relocate to Aurora or Colorado Springs, Co. There is some allowance for remote work, but there is a requirement for candiates to report on-site as needed.
+
+
+
+
+
+
+
+
+
+For this role, the compensation range for candidates in Colorado is $113K- $190 K. Note: Starting pay will be based on a number of factors and commensurate with qualifications & experience. FTI has a location-based compensation structure; there may be a different range for candidates in other locations.
+"
+Cloud Engineer,FTI - Frontier Technology Inc,"Aurora, CO","['On-site', 'Full-time']","About the job
+Overview
+
+FTI is looking for a Senior Cloud Engineer to join our growting team. FTI provides mission-tailored, technology-enabled services and solutions that enhance the ability of the Department of Defense, Intelligence Community, and the Federal Government to make the best decisions possible in support of national interests. Furthermore, FTI supports those who safeguard our nation with advanced technology, services and expertise while building upon our values to make a positive impact on our customers, each other, and our communities. Lastly, our culture is built around our 4Cs: Core Values (Ethics, Morals, Integrity, Honesty, Sincerity), Commitment, Compassion, and Charity.
+
+Candidates must be in or willing to relocate to Aurora or Colorado Springs, Co. There is some allowance for remote work, but there is a requirement for candiates to report on-site as needed.
+
+Responsibilities
+
+ Build, design, deploy, and maintain the implementation of Cloud solutions across multiple enclaves. 
+ Participate in the implementation direction, vision, planning, designing and development of cloud-based applications. 
+ Manage cloud environments in accordance with company security guidelines. 
+ Implement and refine cloud architecture roadmaps including architecture standards, guidelines, and industry best practices. 
+ Deploy and debug cloud initiatives as needed in accordance with best practices throughout the development lifecycle. 
+ Use knowledge of APIs to design RESTful services, and integrate them with existing data providers. 
+ Lead and develop best practices for larger Cloud Engineer team. 
+ Develop, enhance, and maintain automation of cloud enablement tools. 
+ Participate in the design, implementation, and management of workload automation initiatives. 
+ Write SOP (Standard Operating Procedures) to accomplish repetitive tasks. 
+ Responsible for investigating and resolving operational problems in conjunction with other engineering and technical personnel. 
+ Participate in processes throughout all phases of ITIL Service Lifecycle, including submitting Change Requests. 
+
+Education/Qualifications
+
+ Bachelor's degree from an accredited college or university in Computer Science or similar field of study. 
+ 5+ years of Cloud Engineering experience. 
+ Experience in working with microservices and containerization technologies, including Docker, Kubernetes, or OpenShift. 
+ Experience working with Amazon Web Services technologies. 
+ Experience with command line in Linux or Unix. 
+ Experience with designing, developing, operationalizing, and maintaining complex cloud applications at enterprise scale. 
+ Experience with DevOps pipeline tools and technologies, including Docker, Chef, Jenkins, Ansible, Terraform, Helm or Kubernetes. 
+ Ability to obtain Security+ CE, SSCP, CCNA-Security, or GSEC Certification within 6 months of hire. 
+ Must be a U.S. citizen and possess an active TS/SCI Clearance. 
+ Some travel may be required with this role. 
+
+For this role, the compensation range for candidates in Colorado is $113K- $190 K. Note: Starting pay will be based on a number of factors and commensurate with qualifications & experience. FTI has a location-based compensation structure; there may be a different range for candidates in other locations.
+"
+Cloud Engineer,FTI - Frontier Technology Inc,"Chantilly, VA","['On-site', 'Full-time']","About the job
+Overview
+
+FTI is looking for a Senior Cloud Engineer to join our growting team. FTI provides mission-tailored, technology-enabled services and solutions that enhance the ability of the Department of Defense, Intelligence Community, and the Federal Government to make the best decisions possible in support of national interests. Furthermore, FTI supports those who safeguard our nation with advanced technology, services and expertise while building upon our values to make a positive impact on our customers, each other, and our communities. Lastly, our culture is built around our 4Cs: Core Values (Ethics, Morals, Integrity, Honesty, Sincerity), Commitment, Compassion, and Charity.
+
+Candidates must be in or willing to relocate to the DC Metro area or Chantilly, VA. There is some allowance for remote work, but there is a requirement for candiates to report on-site as needed.
+
+Responsibilities
+
+ Build, design, deploy, and maintain the implementation of Cloud solutions across multiple enclaves. 
+ Participate in the implementation direction, vision, planning, designing and development of cloud-based applications. 
+ Manage cloud environments in accordance with company security guidelines. 
+ Implement and refine cloud architecture roadmaps including architecture standards, guidelines, and industry best practices. 
+ Deploy and debug cloud initiatives as needed in accordance with best practices throughout the development lifecycle. 
+ Use knowledge of APIs to design RESTful services, and integrate them with existing data providers. 
+ Lead and develop best practices for larger Cloud Engineer team. 
+ Develop, enhance, and maintain automation of cloud enablement tools. 
+ Participate in the design, implementation, and management of workload automation initiatives. 
+ Write SOP (Standard Operating Procedures) to accomplish repetitive tasks. 
+ Responsible for investigating and resolving operational problems in conjunction with other engineering and technical personnel. 
+ Participate in processes throughout all phases of ITIL Service Lifecycle, including submitting Change Requests. 
+
+Education/Qualifications
+
+ Bachelor's degree from an accredited college or university in Computer Science or similar field of study. 
+ 5+ years of Cloud Engineering experience. 
+ Experience in working with microservices and containerization technologies, including Docker, Kubernetes, or OpenShift. 
+ Experience working with Amazon Web Services technologies. 
+ Experience with command line in Linux or Unix. 
+ Experience with designing, developing, operationalizing, and maintaining complex cloud applications at enterprise scale. 
+ Experience with DevOps pipeline tools and technologies, including Docker, Chef, Jenkins, Ansible, Terraform, Helm or Kubernetes. 
+ Ability to obtain Security+ CE, SSCP, CCNA-Security, or GSEC Certification within 6 months of hire. 
+ Must be a U.S. citizen and possess an active TS/SCI Clearance. 
+ Some travel may be required with this role.
+"
